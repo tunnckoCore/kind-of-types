@@ -1,0 +1,24 @@
+[
+  "null",
+  "set",
+  "map",
+  "date",
+  "array",
+  "string",
+  "object",
+  "number",
+  "regexp",
+  "buffer"
+  "boolean",
+  "function",
+  "undefined",
+  "generator",
+  "generatorfunction",
+  "weakmap",
+  "weakset",
+  "promise",
+  "symbol",
+  "hybrid",
+  "stream",
+  "error"
+]
