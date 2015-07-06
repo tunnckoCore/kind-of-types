@@ -5,7 +5,7 @@
   "repository": "tunnckoCore/kind-of-types",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
   "main": "index.js",
-  "license": "MIT", 
+  "license": "MIT",
   "scripts": {
     "test": "standard && node test.js"
   },
@@ -13,5 +13,34 @@
   "devDependencies": {
     "assertit": "^0.1.0"
   },
-  "keywords": []
+  "keywords": [
+    "bool",
+    "boolean",
+    "buffer",
+    "check",
+    "checking",
+    "error",
+    "is",
+    "is-boolean",
+    "is-buffer",
+    "is-error",
+    "is-promise",
+    "is-stream",
+    "json",
+    "kind",
+    "kindof",
+    "list",
+    "promise",
+    "sanitize",
+    "stream",
+    "tools",
+    "transform",
+    "type",
+    "typeof",
+    "types",
+    "util",
+    "validate",
+    "validation",
+    "weakmap"
+  ]
 }
