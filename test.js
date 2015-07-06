@@ -9,9 +9,9 @@
 
 'use strict'
 
-// var test = require('assertit')
-// var kindOfTypes = require('./index')
+var test = require('assertit')
+var types = require('./index')
 
-// test('kind-of-types:', function () {
-//   // body
-// })
+test('kind-of-types:', function () {
+  test.ok(types.length > 20)
+})
