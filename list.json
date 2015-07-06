@@ -8,7 +8,7 @@
   "object",
   "number",
   "regexp",
-  "buffer"
+  "buffer",
   "boolean",
   "function",
   "undefined",
