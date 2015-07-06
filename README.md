@@ -32,8 +32,18 @@ console.log(types)
 ```
 
 
-## Contributing
+## Related
+- [assert-kindof](https://github.com/tunnckoCore/assert-kindof): Check native type of the given value and throw TypeError if not okey. Expressive, elegant, behavior-driven API, good descriptive default error messages, simple and clean syntax.
+- [assertit](https://github.com/tunnckoCore/assertit): Thin sugar layer on top of `testit` framework, `is-kindof` and `assert`.
+- [is-kindof](https://github.com/tunnckoCore/is-kindof): Check type of given javascript value. Support promises, generators, streams, and native types. Thin wrapper around `kind-of` module.
+- [is-typeof-error](https://github.com/tunnckoCore/is-typeof-error): Check that given value is any type of error and instanceof Error
+- [is-singular](https://github.com/tunnckoCore/is-singular): Return true if given word is in singular form like `apple`, `car`, `test` and false otherwise, never throws.
+- [kind-of-extra](https://github.com/tunnckoCore/kind-of-extra): Extends `kind-of` type check utility with support for promises, generators, streams and errors. Like `kindof(Promise.resolve(1)) === 'promise'` and etc.
+- [kind-error](https://github.com/tunnckoCore/kind-error): Correct inheriting from `Error`. Supports constructing from an object of properties - focused on assertion.
+- [plugin-error](https://github.com/jonschlinkert/plugin-error): Error handling for vinyl plugins. Just an abstraction of what's in gulp-util with minor changes.
 
+
+## Contributing
 Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/tunnckoCore/kind-of-types/issues/new).  
 But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines.
 
