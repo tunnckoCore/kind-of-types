@@ -1,6 +1,6 @@
 {
   "name": "kind-of-types",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "List of all javascript types. Used and useful for checking, validation, sanitizing and testing. Like isStream, isPromise, isWeakset and etc.",
   "repository": "tunnckoCore/kind-of-types",
   "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
