@@ -1,4 +1,4 @@
-# kind-of-types [![npmjs.com][npmjs-img]][npmjs-url] [![The MIT License][license-img]][license-url] 
+# [kind-of-types][author-www-url] [![npmjs.com][npmjs-img]][npmjs-url] [![The MIT License][license-img]][license-url] 
 
 > List of all javascript types. Used and useful for checking, validation, sanitizing and testing. Like isStream, isPromise, isWeakset and etc.
 
@@ -60,7 +60,7 @@ But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) 
 [coveralls-img]: https://img.shields.io/coveralls/tunnckoCore/kind-of-types.svg
 
 [david-url]: https://david-dm.org/tunnckoCore/kind-of-types
-[david-img]: https://img.shields.io/david/tunnckoCore/kind-of-types.svg
+[david-img]: https://img.shields.io/david/dev/tunnckoCore/kind-of-types.svg
 
 [standard-url]: https://github.com/feross/standard
 [standard-img]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
