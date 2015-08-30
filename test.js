@@ -12,6 +12,11 @@
 var test = require('assertit')
 var types = require('./index')
 
-test('kind-of-types:', function () {
-  test.ok(types.length > 20)
+test('kind-of-types', function (done) {
+  test.equal(types.length > 20, true)
+  done()
+})
+test('sorted alphabetically', function (done) {
+  test.equal(types[0], 'array')
+  done()
 })
