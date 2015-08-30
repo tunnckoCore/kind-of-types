@@ -43,11 +43,6 @@ console.log(types)
 - [plugin-error](https://github.com/jonschlinkert/plugin-error): Error handling for vinyl plugins. Just an abstraction of what's in gulp-util with minor changes.
 
 
-## Contributing
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/tunnckoCore/kind-of-types/issues/new).  
-But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) guidelines.
-
-
 ## [Charlike Make Reagent](http://j.mp/1stW47C) [![new message to charlike][new-message-img]][new-message-url] [![freenode #charlike][freenode-img]][freenode-url]
 
 [![tunnckocore.tk][author-www-img]][author-www-url] [![keybase tunnckocore][keybase-img]][keybase-url] [![tunnckoCore npm][author-npm-img]][author-npm-url] [![tunnckoCore twitter][author-twitter-img]][author-twitter-url] [![tunnckoCore github][author-github-img]][author-github-url]
@@ -70,7 +65,7 @@ But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) 
 [coveralls-img]: https://img.shields.io/coveralls/tunnckoCore/kind-of-types.svg
 
 [david-url]: https://david-dm.org/tunnckoCore/kind-of-types
-[david-img]: https://img.shields.io/david/dev/tunnckoCore/kind-of-types.svg
+[david-img]: https://img.shields.io/david/tunnckoCore/kind-of-types.svg
 
 [standard-url]: https://github.com/feross/standard
 [standard-img]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
@@ -95,4 +90,4 @@ But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) 
 [freenode-img]: https://img.shields.io/badge/freenode-%23charlike-5654a4.svg
 
 [new-message-url]: https://github.com/tunnckoCore/messages
-[new-message-img]: https://img.shields.io/badge/send%20me-message-green.svg
+[new-message-img]: https://img.shields.io/badge/ask%20me-anything-green.svg
