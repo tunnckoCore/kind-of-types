@@ -65,7 +65,7 @@ console.log(types)
 [coveralls-img]: https://img.shields.io/coveralls/tunnckoCore/kind-of-types.svg
 
 [david-url]: https://david-dm.org/tunnckoCore/kind-of-types
-[david-img]: https://img.shields.io/david/tunnckoCore/kind-of-types.svg
+[david-img]: https://img.shields.io/david/dev/tunnckoCore/kind-of-types.svg
 
 [standard-url]: https://github.com/feross/standard
 [standard-img]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg
